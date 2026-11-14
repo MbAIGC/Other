@@ -1,0 +1,5 @@
+# 测试脚手架与本地缓存不入库
+pwtest/
+*.html
+*.css
+node_modules/
